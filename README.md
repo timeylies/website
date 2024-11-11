@@ -1,3 +1,3 @@
 # website
 my website
--# note to self: use vuepress
+*note to self: use vuepress*
